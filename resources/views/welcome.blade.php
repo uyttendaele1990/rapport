@@ -187,12 +187,6 @@
             
         }
     }
-
-    function showselect(id){
-        const content4 = document.getElementById(test+id)
-        content4.style.background = 'lightgrey';
-    }
-
 </script>
 
 </body>
